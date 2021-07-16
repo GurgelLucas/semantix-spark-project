@@ -1,6 +1,10 @@
 # Projeto Final de Spark
 
-NEste projeto foi usado <b>Docker</b> com <b>WSL2</b> para construir a infraestrutura de clusters. Para aplicar o projeto em seu computador local será necessário a instalação do <b>Docker</b> e <b>Docker Compose</b>.
+### ATENÇÃO
+
+<b color="red">Este projeto ainda está em desenvolvimento.</b>
+
+Neste projeto foi usado <b>Docker</b> com <b>WSL2</b> para construir a infraestrutura de clusters. Para aplicar o projeto em seu computador local será necessário a instalação do <b>Docker</b> e <b>Docker Compose</b>.
 
 - Docker: https://docs.docker.com/get-docker/
 - Docker Compose: https://docs.docker.com/compose/install/
